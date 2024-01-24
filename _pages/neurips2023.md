@@ -70,13 +70,14 @@ the realms of generative models and computer vision applications.
 
 <table style="width:100%">
   <tr>
-    <td style="text-align:center border-radius:50%"><a href="https:/khoinguyen.org"><img src="assets/img2/org-khoinguyen.jpg" style="border-radius:50%;" height="150" width="150"></a></td>
-    <!-- <td style="text-align:center"><img src="assets/img/org-anidruddha-saha-square.jpeg" height="150"  width="150"></td> -->
+    <td style="text-align:center border-radius:50%">
+      <a href="https://khoinguyen.org"><img src="assets/img2/org-khoinguyen.jpg" style="border-radius:50%;" height="150" width="150"></a>
+    </td>
     <td style="text-align:center">
       <a href="https://scholar.google.com/citations?user=FYZ5ODQAAAAJ&hl=en"><img src="assets/img/org-anh-tran-square.jpg" style="border-radius:50%;" height="150" width="150"></a>
     </td>
     <td style="text-align:center">
-      <a href="https:/sonhua.github.io/"><img src="assets/img2/org-sonhua.jpg" height="150" width="150" style="border-radius:50%;"></a>
+      <a href="https://sonhua.github.io/"><img src="assets/img2/org-sonhua.jpg" height="150" width="150" style="border-radius:50%;"></a>
     </td>
     <td style="text-align:center">
       <a href="https://www.supasorn.com/"><img src="assets/img2/org-supasorn.jpg" height="150" width="150" style="border-radius:50%;"></a>
