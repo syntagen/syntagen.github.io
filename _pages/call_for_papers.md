@@ -6,8 +6,21 @@ title: Call for Papers
 desc_title: Call for Papers
 social: true
 ---
+We invite contributions in the form of **full papers** (up to 8 pages, excluding references, for inclusion in the proceedings) and **short papers** (up to 4 pages, excluding references, not for proceedings).
 
-* TBD
+All submissions must adhere to the CVPR 2024 template and be submitted in English as PDF files. Full papers should present completed works showcasing substantial technical contributions, novelty, and experimental results. Short papers encompass work-in-progress and demo papers. Our guidelines follow CVPR 2024 workshop standards; we exclusively consider papers with original content. Submissions that duplicate work already published elsewhere will not be accepted.
+
+Each paper will undergo a thorough review by a minimum of **three reviewers**. Authors of accepted papers must be present at the workshop to deliver their work. We have chosen **OpenReview.net** as our submission platform, maintaining a double-blind submission and review process. All reviewer feedback on accepted papers will be publicly accessible.
+
+Anticipating around 20 submissions, we aim to accept **10 papers**, achieving an acceptance rate of approximately 50\%. This includes **up to three oral** presentations (best paper awarded) and a poster session.
+
+### Important Dates
+
+* **Call for Papers**: Feb 22nd, 2024
+* **Paper submission deadline**: Mar 22nd, 2024
+* **Author notifiation**: Apr 7th, 2024
+* **Camera ready upload**: Apr 14th, 2024
+
 <!-- We cordially invite submissions and participation in our “Backdoors in Deep Learning: The Good, the Bad, and the Ugly” workshop (neurips2023-bugs.github.io) that will be held on December 15 or 16, 2023 at NeurIPS 2023, New Orleans, USA.  -->
 
 <!-- The submission deadline is **<s>September 29, 2023</s> October 6th, 2023, 23:59 AoE** and the submission link <a href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/BUGS">https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/BUGS</a>.
@@ -33,13 +46,6 @@ ensuring responsible data generation and annotation practices.
 
 We only consider submissions that haven’t been published in any peer-reviewed venue, including NeurIPS 2023 conference. **We allow dual submissions with other workshops or conferences. The workshop is non-archival and will not have any official proceedings**. All accepted papers will be allocated either a poster presentation or a talk slot.
  
-
-### Important Dates
-
-* **Submission deadline**: <s>September 29th, 2023</s> October 6th, 2023, 11:59 PM Anywhere on Earth (AoE)
-* **Author notification**: October 27th, 2023
-* **Camera-ready deadline**: December 1st, 2023, 11:59 PM Anywhere on Earth (AoE)
-* **Workshop date**: December 15th, 2023 (Full-day Event)
 
 ### Submission Instructions
 
