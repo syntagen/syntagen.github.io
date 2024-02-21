@@ -24,8 +24,10 @@ outlined as follows:
 
 1.  **Random seed + DeepLabv3 + Dataset**. By the first deadline in this phase, each
 team must use their method to generate their synthetic dataset and train a DeepLabv3 on
-it. Each team must submit: 1. the random seed used in their model for dataset generation,
-2. the generated dataset, and 3. the checksum of the trained DeepLabv3. The checksum
+it. Each team must submit:
+* The **random seed** used in their model for dataset generation, 
+* The **generated dataset** 
+* The **checksum of the trained DeepLabv3**. The checksum
 code will be provided as part of the Colab codebase. Modifications to the model, the trained
 DeepLabv3, or the generated dataset are prohibited after this deadline.
 
