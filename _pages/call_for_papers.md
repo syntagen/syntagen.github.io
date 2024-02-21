@@ -6,13 +6,7 @@ title: Call for Papers
 desc_title: Call for Papers
 social: true
 ---
-We invite contributions in the form of **full papers** (up to 8 pages, excluding references, for inclusion in the proceedings) and **short papers** (up to 4 pages, excluding references, not for proceedings).
 
-All submissions must adhere to the CVPR 2024 template and be submitted in English as PDF files. Full papers should present completed works showcasing substantial technical contributions, novelty, and experimental results. Short papers encompass work-in-progress and demo papers. Our guidelines follow CVPR 2024 workshop standards; we exclusively consider papers with original content. Submissions that duplicate work already published elsewhere will not be accepted.
-
-Each paper will undergo a thorough review by a minimum of **three reviewers**. Authors of accepted papers must be present at the workshop to deliver their work. We have chosen **OpenReview.net** as our submission platform, maintaining a double-blind submission and review process. All reviewer feedback on accepted papers will be publicly accessible.
-
-Anticipating around 20 submissions, we aim to accept **10 papers**, achieving an acceptance rate of approximately 50\%. This includes **up to three oral** presentations (best paper awarded) and a poster session.
 
 ### Important Dates
 
