@@ -34,3 +34,11 @@ body {
     padding-left: $horizontal-spacing-unit;
     @extend .clearfix;
 }
+
+.wrapper-button{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 35px;
+  padding-top: 0px;
+}

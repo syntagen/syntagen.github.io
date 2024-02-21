@@ -68,3 +68,6 @@ traces to protect privacy and respect consent standards. -->
 * **Submission deadline 2 for Colab code and mIoU score**: May 27th, 2024
 * **Award announcemen**: Jun 7th, 2024
 * **Report and code upload for winners**: Jun 14th, 2024
+
+### Discussion
+* TBD
