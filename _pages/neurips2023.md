@@ -3,7 +3,7 @@ layout: home
 order: 1
 permalink: /
 title: About
-desc_title: SyntaGen Harnessing - Generative Models for Synthetic Visual Datasets
+desc_title: SyntaGen - Harnessing Generative Models for Synthetic Visual Datasets
 description:  <strong>June 17th, Morning</strong>
 social: true
 ---
