@@ -12,7 +12,7 @@
     </span>
     </a>
 
-    <nav class="site-nav">
+    <!-- <nav class="site-nav">
       <input type="checkbox" id="nav-trigger" class="nav-trigger" />
         <label for="nav-trigger">
           <span class="menu-icon">
@@ -25,7 +25,6 @@
         </label>
 
       <div class="trigger">
-        <!-- Pages -->
         {% assign sorted_pages = site.pages | sort:"order" %}
         {% for page in sorted_pages %}
           {% if page.title %}
@@ -33,11 +32,9 @@
           {% endif %}
         {% endfor %}
 
-        <!-- CV link -->
-        <!-- <a class="page-link" href="{{ '/assets/pdf/CV.pdf' | prepend: site.baseurl | prepend: site.url }}">vitae</a> -->
 
       </div>
-    </nav>
+    </nav> -->
 
   </div>
   <meta name="robots" content="noindex">
