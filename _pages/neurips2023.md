@@ -4,7 +4,7 @@ order: 1
 permalink: /
 title: About
 desc_title: SyntaGen - Harnessing Generative Models for Synthetic Visual Datasets
-description:  <strong>June 17th, Morning</strong>
+description:  <strong>CVPR 2024 Workshop <br> June 17th, Morning <br> Seattle, United States</strong>
 social: true
 ---
 The field of computer vision has undergone a significant transformation in recent
@@ -16,9 +16,7 @@ valuable in training and evaluating various computer vision algorithms, includin
 object detection and segmentation, representation learning, and scene understanding. The SyntaGen workshop will act as a crucible for an inclusive exchange of
 ideas, practical insights, and collaborative explorations. By convening experts and
 enthusiasts from various corners of the field, it strives to propel the development of
-generative models and synthetic visual datasets to new heights. Through informative talks, poster sessions, paper presentations, and vibrant panel discussions, this
-workshop endeavors to lay the foundation for innovative breakthroughs that bridge
-the realms of generative models and computer vision applications.
+generative models and synthetic visual datasets to new heights. Through informative talks, challenges, poster sessions, paper presentations, and vibrant panel discussions, this workshop endeavors to lay the foundation for innovative breakthroughs that bridge the realms of generative models and computer vision applications.
 <!-- **UPDATE**: fill out this form if you are interested in a post-workshop social: [https://forms.gle/XjeSVmyHnsp7EmLB6](https://forms.gle/XjeSVmyHnsp7EmLB6). -->
 
 <!-- ### Schedule (Meeting Room 317A, 9 AM - 5 PM, July 29, 2023) -->
