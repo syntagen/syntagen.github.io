@@ -68,10 +68,10 @@ generative models and synthetic visual datasets to new heights. Through informat
 
 ### **Call for Papers**
 We invite papers to propel the development of generative models and/or the use of their synthetic visual datasets for training and evaluating computer vision models. Accepted papers will be presented in the poster session in our workshop. We welcome submissions along two tracks:
-* **Full papers**: Up to 8 pages, excluding references, for inclusion in the proceedings
+* **Full papers**: Up to 8 pages, excluding references, with option for inclusion in the proceedings.
 * **Short papers**: Up to 4 pages, excluding references, not for the proceedings. 
 
-Only full papers will be considered for the Best Paper award. Additionally, we offer a Best Paper and a Best Paper Runner-up award with oral presentations.
+Only full papers will be considered for the Best Paper award. Additionally, we offer a Best Paper and a Best Paper Runner-up award with oral presentations. All accepted papers without inclusion in the proceedings are non-archival.
 
 #### Topics
 The main objective of the SyntaGen workshop is to offer a space for researchers, practitioners, and enthusiasts to investigate, converse, and cooperate on the development, use, and potential uses of synthetic visual datasets made from generative models. The workshop will cover various topics, including but not restricted to:
@@ -84,7 +84,7 @@ The main objective of the SyntaGen workshop is to offer a space for researchers,
 * Ethical implications of using synthetic annotated data, strategies for mitigating biases, and ensuring responsible data generation and annotation practices.
 
 #### Submission Instructions
-Submissions should be anonymized and formatted using the [CVPR 2024 template](https://github.com/cvpr-org/author-kit/releases) and uploaded as a single PDF. Note that our workshop is non-archival.
+Submissions should be anonymized and formatted using the [CVPR 2024 template](https://github.com/cvpr-org/author-kit/releases) and uploaded as a single PDF.
 
 #### Supplementary material
 Supplemental materials optionally can be submitted along the paper manuscript on the submission deadline. They must be anonymized and uploaded either as a single PDF or a ZIP file.
