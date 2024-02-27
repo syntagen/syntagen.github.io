@@ -55,7 +55,29 @@ generative models and synthetic visual datasets to new heights. Through informat
 
 
 ### **Speakers**
-* TBD
+
+<table style="width:100%">
+  <tr>
+    <td style="text-align:center border-radius:50%">
+      <a href="https://www.cs.toronto.edu/~fleet/"><img src="assets/img2/david.jpg" style="border-radius:50%;" height="150" width="150"></a>
+    </td>
+    <td style="text-align:center">
+      <a href="https://web.mit.edu/phillipi/"><img src="assets/img2/philip_isola.jpg" style="border-radius:50%;" height="150" width="150"></a>
+    </td>
+    <td style="text-align:center">
+      <a href="https://jbhuang0604.github.io/"><img src="assets/img2/jinbin.jpg" height="150" width="150" style="border-radius:50%;"></a>
+    </td>
+    <td style="text-align:center">
+      <a href="https://www.weizmann.ac.il/math/dekel/"><img src="assets/img2/TaliDekel_w.jpg" height="150" width="150" style="border-radius:50%;"></a>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><a href="https://www.cs.toronto.edu/~fleet/">David J Fleet</a><br>Professor<br>University of Toronto</td>
+    <td style="text-align:center"><a href="https://web.mit.edu/phillipi/">Phillip Isola</a><br>Associate Professor<br>MIT</td>
+    <td style="text-align:center"><a href="https://jbhuang0604.github.io/">Jia-Bin Huang</a><br>Associate Professor<br>University of Maryland</td>
+    <td style="text-align:center"><a href="https://www.weizmann.ac.il/math/dekel/">Tali Dekel</a><br>Assistant Professor<br>Weizmann Institute of Science</td>
+  </tr>
+</table>
 
 ### **Panelists**
 * TBD
@@ -163,8 +185,6 @@ traces to protect privacy and respect consent standards. -->
 * TBD
 
 ### **Organizers**
-
-
 <table style="width:100%">
   <tr>
     <td style="text-align:center border-radius:50%">
@@ -191,7 +211,6 @@ traces to protect privacy and respect consent standards. -->
     <td style="text-align:center"><a href="https://zhouyisjtu.github.io/">Yi Zhou</a><br>Adobe</td>
   </tr>
 </table>
-
 
 ### **Organizers affiliations**
 <!-- <td style="text-align:center"><a href="https://vinuni.edu.vn/college-of-engineering-computer-science/"><img src="assets/img/inst-vinuni-cecs.png" height="75"></a></td>
