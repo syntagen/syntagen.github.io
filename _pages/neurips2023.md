@@ -161,6 +161,7 @@ Please use this [Google Colab file](https://colab.research.google.com/drive/1kiz
 <br>
 **Note:** You can run it in Google Colab or download it as a Jupyter notebook to run on your local machine (advised).
 
+
 #### Prizes and presentation: 
 We will award the top 2 teams with cash prizes **(Top 1: $1000, Top 2: $500)** and invite them to write a report and present their work at the workshop **(10 minutes each)**.
 
