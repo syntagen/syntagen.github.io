@@ -1,2 +1,2 @@
-# neurips2023-bugs.github.io
-NeurIPS 2023 Backdoors in Deep Learning Workshop
+# syntagen.github.io
+CVPR 2024 Syntagen Workshop
