@@ -68,7 +68,7 @@ generative models and synthetic visual datasets to new heights. Through informat
       <a href="https://jbhuang0604.github.io/"><img src="assets/img2/jinbin2.jpg" height="150" width="150" style="border-radius:50%;"></a>
     </td>
     <td style="text-align:center">
-      <a href="https://www.weizmann.ac.il/math/dekel/"><img src="assets/img2/TaliDekel_w3.jpg" height="150" width="150" style="border-radius:50%;"></a>
+      <a href="https://www.weizmann.ac.il/math/dekel/"><img src="assets/img2/TaliDekel_w4.jpg" height="150" width="150" style="border-radius:50%;"></a>
     </td>
   </tr>
   <tr>
