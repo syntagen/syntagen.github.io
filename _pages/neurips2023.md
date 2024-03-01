@@ -65,10 +65,10 @@ generative models and synthetic visual datasets to new heights. Through informat
       <a href="https://web.mit.edu/phillipi/"><img src="assets/img2/philip_isola.jpg" style="border-radius:50%;" height="150" width="150"></a>
     </td>
     <td style="text-align:center">
-      <a href="https://jbhuang0604.github.io/"><img src="assets/img2/jinbin.jpg" height="150" width="150" style="border-radius:50%;"></a>
+      <a href="https://jbhuang0604.github.io/"><img src="assets/img2/jinbin2.jpg" height="150" width="150" style="border-radius:50%;"></a>
     </td>
     <td style="text-align:center">
-      <a href="https://www.weizmann.ac.il/math/dekel/"><img src="assets/img2/TaliDekel_w.jpg" height="150" width="150" style="border-radius:50%;"></a>
+      <a href="https://www.weizmann.ac.il/math/dekel/"><img src="assets/img2/TaliDekel_w3.jpg" height="150" width="150" style="border-radius:50%;"></a>
     </td>
   </tr>
   <tr>
@@ -125,7 +125,7 @@ Supplemental materials optionally can be submitted along the paper manuscript on
 The primary objective of this competition is to drive innovation in the creation of high-quality synthetic datasets, leveraging only the pretrained [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) and the 20 class names from [PASCAL VOC 2012](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/) for semantic segmentation. The evaluation of synthetic dataset quality involves training a [DeepLabv3](https://arxiv.org/abs/1706.05587) model on the synthetic dataset and subsequently assessing its performance on a private test set on the task of semantic segmentation  (a sample validation set is the validation set of [PASCAL VOC 2012](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/)). Submissions are ranked based on the **mIoU** metric. This competition framework mirrors the practical application of synthetic datasets, particularly in scenarios where they replace real datasets.
 
 #### Requirements
-Teams are required to upload their synthetic datasets to **Google Drive** for public access. The dataset should include a maximum of **10K** pairs of synthesized images and semantic segmentations, each image being **512x512** in size. We will supply a Google Colab codebase for exemplifying some random training images and their annotations, DeepLabv3 training and evaluation, using a **Resnet-50** backbone, and showing qualitative results. Training and evaluation time for DeepLabv3 is capped at **30K iterations** with a **batch size of 8**.  The codebase should remain unchanged except for the Google Drive file ID provided by each team. For text prompts, participants can leverage various methods, including LLMs like [ChatGPT](https://chat.openai.com/). For text-to-image generation, participants can choose either **Stable Diffusion (v1.x) or (v2.x)**. However, participants cannot use any additional segmentation datasets. One approach can be [Dataset Diffusion](https://arxiv.org/abs/2309.14303), and the source code for which is accessible at [Github](https://github.com/VinAIResearch/Dataset-Diffusion/tree/main).
+Teams are required to upload their synthetic datasets to **Google Drive** for public access. The dataset should include a maximum of **10K** pairs of synthesized images and semantic segmentations, each image being **512x512** in size. We will supply a Google Colab codebase for exemplifying some random training images and their annotations, DeepLabv3 training and evaluation, using a **Resnet-50** backbone, and showing qualitative results. Training and evaluation time for DeepLabv3 is capped at **10K iterations** with a **batch size of 8**.  The codebase should remain unchanged except for the Google Drive file ID provided by each team. For text prompts, participants can leverage various methods, including LLMs like [ChatGPT](https://chat.openai.com/). For text-to-image generation, participants can choose either **Stable Diffusion (v1.x) or (v2.x)**. However, participants cannot use any additional segmentation datasets. One approach can be [Dataset Diffusion](https://arxiv.org/abs/2309.14303), and the source code for which is accessible at [Github](https://github.com/VinAIResearch/Dataset-Diffusion/tree/main).
 
 #### Submission and evaluation
 The submission comprises two phases with two separate deadlines,
@@ -153,8 +153,16 @@ to Stable Diffusion as the exclusive text-to-image generator. Any submissions fo
 be non-compliant or in violation of the rules will be disqualified. In such instances, the evaluation
 process will continue with the subsequent submissions until the final top 2 are determined
 
+#### Submission Form:
+* TBD
+
+#### Google Colab file training and evaluating synthetic dataset
+Please use this [Google Colab file](https://colab.research.google.com/drive/1kizZ0Ix2SNP11qy_VMhr0NLGlI5-oMNT) for training and evaluating your synthetic dataset. 
+<br>
+**Note:** You can run it in Google Colab or download it as a Jupyter notebook to run on your local machine. 
+
 #### Prizes and presentation: 
-We will award the top 2 teams with cash prizes and invite them to write a report and present their work at the workshop (10 minutes each).
+We will award the top 2 teams with cash prizes **(Top 1: $1000, Top 2: $500)** and invite them to write a report and present their work at the workshop **(10 minutes each)**.
 
 <!-- ### Ethical considerations for the datasets
 Since the evaluated dataset is the validation set of PASCAL VOC 2012, it shares the same ethical considerations with PASCAL VOC 2012. Besides, the generated
@@ -179,7 +187,7 @@ traces to protect privacy and respect consent standards. -->
 * Report and code upload for winners: **Jun 14th, 2024**
 
 #### Discussion community
-Let's join SyntaGen's community in <a href="https://discord.gg/TxW8Zbc9" target="_blank">**Discord**</a>
+Let’s join SyntaGen’s community in <a href="https://discord.gg/TxW8Zbc9" target="_blank">**Discord**</a> to discuss anything related to the challenge
 
 ### **Workshop Sponsors**
 * TBD
