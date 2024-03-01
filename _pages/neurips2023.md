@@ -179,7 +179,7 @@ traces to protect privacy and respect consent standards. -->
 * Report and code upload for winners: **Jun 14th, 2024**
 
 #### Discussion community
-* TBD
+Let's join SyntaGen's community in <a href="https://discord.gg/TxW8Zbc9" target="_blank">**Discord**</a>
 
 ### **Workshop Sponsors**
 * TBD
@@ -211,6 +211,9 @@ traces to protect privacy and respect consent standards. -->
     <td style="text-align:center"><a href="https://zhouyisjtu.github.io/">Yi Zhou</a><br>Adobe</td>
   </tr>
 </table>
+
+<!-- ### **Volunteers** -->
+
 
 ### **Organizers affiliations**
 <!-- <td style="text-align:center"><a href="https://vinuni.edu.vn/college-of-engineering-computer-science/"><img src="assets/img/inst-vinuni-cecs.png" height="75"></a></td>
