@@ -159,7 +159,7 @@ process will continue with the subsequent submissions until the final top 2 are 
 #### Google Colab file training and evaluating synthetic dataset
 Please use this [Google Colab file](https://colab.research.google.com/drive/1kizZ0Ix2SNP11qy_VMhr0NLGlI5-oMNT) for training and evaluating your synthetic dataset. 
 <br>
-**Note:** You can run it in Google Colab or download it as a Jupyter notebook to run on your local machine. 
+**Note:** You can run it in Google Colab or download it as a Jupyter notebook to run on your local machine (advised).
 
 #### Prizes and presentation: 
 We will award the top 2 teams with cash prizes **(Top 1: $1000, Top 2: $500)** and invite them to write a report and present their work at the workshop **(10 minutes each)**.
