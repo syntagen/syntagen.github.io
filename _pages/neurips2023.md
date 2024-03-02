@@ -232,7 +232,21 @@ Let’s join SyntaGen’s community in <a href="https://discord.gg/TxW8Zbc9" tar
   </tr>
 </table>
 
-<!-- ### **Volunteers** -->
+### **Volunteers**
+<table style="width:100%">
+  <tr>
+    <td style="text-align:center">
+      <a href="https://truongvu2000nd.github.io/"><img src="assets/img2/truong.jpg" height="150" width="150" style="border-radius:50%;"></a>
+    </td>
+    <td style="text-align:center">
+      <a href="https://quang-ngh.github.io/"><img src="assets/img2/quang.jpg" height="150" width="150" style="border-radius:50%;"></a>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><a href="https://truongvu2000nd.github.io/">Truong Vu</a><br>Research Resident<br>VinAI Research, Vietnam</td>
+    <td style="text-align:center"><a href="https://quang-ngh.github.io/">Quang Nguyen</a><br>Research Intern<br>VinAI Research, Vietnam</td>
+  </tr>
+</table>
 
 
 ### **Organizers affiliations**
