@@ -128,9 +128,9 @@ Supplemental materials optionally can be submitted along the paper manuscript on
 If you have any further questions, please feel free to contact us at **cvpr24syntagen@googlegroups.com**
 
 ### **SyntaGen Competition**
-<!-- <div class="img"> -->
-  <!-- <img src="./assets/img2/dataset-diff-teaser.png"></img> -->
-<!-- </div> -->
+<div class="img">
+  <img src="./assets/img2/dataset-diff-teaser.png" width="980" height="480">
+</div>
 
 #### Dataset and metric
 The primary objective of this competition is to drive innovation in the creation of high-quality synthetic datasets, leveraging only the pretrained [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) and the 20 class names from [PASCAL VOC 2012](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/) for semantic segmentation. The evaluation of synthetic dataset quality involves training a [DeepLabv3](https://arxiv.org/abs/1706.05587) model on the synthetic dataset and subsequently assessing its performance on a private test set on the task of semantic segmentation  (a sample validation set is the validation set of [PASCAL VOC 2012](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/)). Submissions are ranked based on the **mIoU** metric. This competition framework mirrors the practical application of synthetic datasets, particularly in scenarios where they replace real datasets.
