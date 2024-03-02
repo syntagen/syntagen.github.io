@@ -70,12 +70,16 @@ generative models and synthetic visual datasets to new heights. Through informat
     <td style="text-align:center">
       <a href="https://www.weizmann.ac.il/math/dekel/"><img src="assets/img2/TaliDekel_w4.jpg" height="150" width="150" style="border-radius:50%;"></a>
     </td>
+    <td style="text-align:center">
+      <a href="https://research.adobe.com/person/nathan-carr/"><img src="assets/img2/nathan.png" height="150" width="150" style="border-radius:50%;"></a>
+    </td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://www.cs.toronto.edu/~fleet/">David J Fleet</a><br>Professor<br>University of Toronto</td>
     <td style="text-align:center"><a href="https://web.mit.edu/phillipi/">Phillip Isola</a><br>Associate Professor<br>MIT</td>
     <td style="text-align:center"><a href="https://jbhuang0604.github.io/">Jia-Bin Huang</a><br>Associate Professor<br>University of Maryland</td>
     <td style="text-align:center"><a href="https://www.weizmann.ac.il/math/dekel/">Tali Dekel</a><br>Assistant Professor<br>Weizmann Institute of Science</td>
+    <td style="text-align:center"><a href="https://research.adobe.com/person/nathan-carr/">Nathan Carr</a><br>Research Scientist<br>Adobe Research</td>
   </tr>
 </table>
 
@@ -120,12 +124,19 @@ Supplemental materials optionally can be submitted along the paper manuscript on
 * Camera Ready submission deadline: **April 14th, 11:59 PM Pacific Time**
 * Workshop date: **June 17th, 2024 (Morning)**
 
+#### Contact us
+If you have any further questions, please feel free to contact us at **cvpr24syntagen@googlegroups.com**
+
 ### **SyntaGen Competition**
+<!-- <div class="img"> -->
+  <!-- <img src="./assets/img2/dataset-diff-teaser.png"></img> -->
+<!-- </div> -->
+
 #### Dataset and metric
 The primary objective of this competition is to drive innovation in the creation of high-quality synthetic datasets, leveraging only the pretrained [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) and the 20 class names from [PASCAL VOC 2012](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/) for semantic segmentation. The evaluation of synthetic dataset quality involves training a [DeepLabv3](https://arxiv.org/abs/1706.05587) model on the synthetic dataset and subsequently assessing its performance on a private test set on the task of semantic segmentation  (a sample validation set is the validation set of [PASCAL VOC 2012](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/)). Submissions are ranked based on the **mIoU** metric. This competition framework mirrors the practical application of synthetic datasets, particularly in scenarios where they replace real datasets.
 
 #### Requirements
-Teams are required to upload their synthetic datasets to **Google Drive** for public access. The dataset should include a maximum of **10K** pairs of synthesized images and semantic segmentations, each image being **512x512** in size. We will supply a Google Colab codebase for exemplifying some random training images and their annotations, DeepLabv3 training and evaluation, using a **Resnet-50** backbone, and showing qualitative results. Training and evaluation time for DeepLabv3 is capped at **10K iterations** with a **batch size of 8**.  The codebase should remain unchanged except for the Google Drive file ID provided by each team. For text prompts, participants can leverage various methods, including LLMs like [ChatGPT](https://chat.openai.com/). For text-to-image generation, participants can choose either **Stable Diffusion (v1.x) or (v2.x)**. However, participants cannot use any additional segmentation datasets. One approach can be [Dataset Diffusion](https://arxiv.org/abs/2309.14303), and the source code for which is accessible at [Github](https://github.com/VinAIResearch/Dataset-Diffusion/tree/main).
+Teams are required to upload their synthetic datasets to **Google Drive** for public access. The dataset should include a maximum of **10K** pairs of synthesized images and semantic segmentations, each image being **512x512** in size. We will supply a [Google Colab](https://colab.research.google.com/drive/1kizZ0Ix2SNP11qy_VMhr0NLGlI5-oMNT) codebase for exemplifying some random training images and their annotations, DeepLabv3 training and evaluation, using a **Resnet-50** backbone, and showing qualitative results. Training and evaluation time for DeepLabv3 is capped at **10K iterations** with a **batch size of 8**.  The codebase should remain unchanged except for the Google Drive file ID provided by each team. For text prompts, participants can leverage various methods, including LLMs like [ChatGPT](https://chat.openai.com/). For text-to-image generation, participants can choose either **Stable Diffusion (v1.x) or (v2.x)**. However, participants cannot use any additional segmentation datasets. One approach can be [Dataset Diffusion](https://arxiv.org/abs/2309.14303), and the source code for which is accessible at [Github](https://github.com/VinAIResearch/Dataset-Diffusion/tree/main).
 
 #### Submission and evaluation
 The submission comprises two phases with two separate deadlines,
@@ -163,7 +174,7 @@ Please use this [Google Colab file](https://colab.research.google.com/drive/1kiz
 
 
 #### Prizes and presentation: 
-We will award the top 2 teams with cash prizes **(Top 1: $1000, Top 2: $500)** and invite them to write a report and present their work at the workshop **(10 minutes each)**.
+We will award the top 2 teams with cash prizes **(Rank 1: $1000, Rank 2: $500)** and invite them to write a report and present their work at the workshop **(10 minutes each)**.
 
 <!-- ### Ethical considerations for the datasets
 Since the evaluated dataset is the validation set of PASCAL VOC 2012, it shares the same ethical considerations with PASCAL VOC 2012. Besides, the generated
@@ -183,8 +194,8 @@ traces to protect privacy and respect consent standards. -->
 * Competition announcement: **Feb 22nd, 2024**
 * Submission start: **Mar 1st, 2024**
 * Submission deadline 1 for random seed, DeepLabv3, and dataset: **May 24th, 2024**
-* Submission deadline 2 for Colab code and mIoU score: **May 27th, 2024**
-* Award announcemen: **Jun 7th, 2024**
+* Submission deadline 2 for dataset generation code and mIoU score: **May 27th, 2024**
+* Award announcement: **Jun 7th, 2024**
 * Report and code upload for winners: **Jun 14th, 2024**
 
 #### Discussion community
