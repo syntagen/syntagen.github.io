@@ -202,6 +202,12 @@ traces to protect privacy and respect consent standards. -->
 Let’s join SyntaGen’s community in <a href="https://discord.gg/AMxnPm3V" target="_blank">**Discord**</a> to discuss anything related to the challenge
 
 ### **Workshop Sponsors**
+<table style="width:100%; align: left; border: none; spacing: none">
+  <tr style="border: none; spacing: none"> 
+    <td style="text-align:center; border: none; spacing: none"><a href="https://www.vinai.io/"><img src="assets/img/inst-vinai.png" height="60"></a></td>  
+    <td style="text-align:center; border: none; spacing: none"><a href="https://research.adobe.com/"><img src="assets/img2/aff-adobe.jpg" height="70"></a></td>
+  </tr>
+</table>
 * TBD
 
 ### **Organizers**
