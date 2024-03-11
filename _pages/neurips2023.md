@@ -208,7 +208,6 @@ Let’s join SyntaGen’s community in <a href="https://discord.gg/AMxnPm3V" tar
     <td style="text-align:center; border: none; spacing: none"><a href="https://research.adobe.com/"><img src="assets/img2/aff-adobe.jpg" height="70"></a></td>
   </tr>
 </table>
-* TBD
 
 ### **Organizers**
 <table style="width:100%">
