@@ -209,7 +209,7 @@ Let’s join SyntaGen’s community in <a href="https://discord.gg/AMxnPm3V" tar
   </tr>
   <tr style="border: none; spacing: none"> 
     <td style="text-align:center; border: none; spacing: none"><a href="https://www.vinai.io/"><b>VinAI</b></a></td>  
-    <td style="text-align:center; border: none; spacing: none"><a href="https://research.adobe.com/"><b>Adobe</b></a></td>
+    <td style="text-align:center; border: none; spacing: none"><a href="https://www.adobe.com/"><b>Adobe</b></a></td>
   </tr>
 </table>
 
