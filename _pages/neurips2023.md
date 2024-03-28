@@ -199,7 +199,7 @@ traces to protect privacy and respect consent standards. -->
 * Report and code upload for winners: **Jun 14th, 2024**
 
 #### Discussion community
-Let’s join SyntaGen’s community in <a href="https://discord.gg/AMxnPm3V" target="_blank">**Discord**</a> to discuss anything related to the challenge
+Let’s join SyntaGen’s community in <a href="https://discord.gg/QuPgtx78kg" target="_blank">**Discord**</a> to discuss anything related to the challenge
 
 ### **Workshop Sponsors**
 <table style="width:100%; align: left; border: none; spacing: none">
