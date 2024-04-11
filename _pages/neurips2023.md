@@ -75,9 +75,9 @@ generative models and synthetic visual datasets to new heights. Through informat
     </td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://www.cs.toronto.edu/~fleet/">David J Fleet</a><br>Professor<br>University of Toronto</td>
+    <td style="text-align:center"><a href="https://www.cs.toronto.edu/~fleet/">David J Fleet</a><br>Professor<br>University of Toronto, Google DeepMind</td>
     <td style="text-align:center"><a href="https://web.mit.edu/phillipi/">Phillip Isola</a><br>Associate Professor<br>MIT</td>
-    <td style="text-align:center"><a href="https://jbhuang0604.github.io/">Jia-Bin Huang</a><br>Associate Professor<br>University of Maryland</td>
+    <td style="text-align:center"><a href="https://jbhuang0604.github.io/">Jia-Bin Huang</a><br>Associate Professor<br>University of Maryland College Park</td>
     <td style="text-align:center"><a href="https://www.weizmann.ac.il/math/dekel/">Tali Dekel</a><br>Assistant Professor<br>Weizmann Institute of Science</td>
     <td style="text-align:center"><a href="https://research.adobe.com/person/nathan-carr/">Nathan Carr</a><br>Research Scientist<br>Adobe Research</td>
   </tr>
