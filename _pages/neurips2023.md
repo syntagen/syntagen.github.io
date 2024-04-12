@@ -79,7 +79,7 @@ generative models and synthetic visual datasets to new heights. Through informat
     <td style="text-align:center"><a href="https://web.mit.edu/phillipi/">Phillip Isola</a><br>Associate Professor<br>MIT</td>
     <td style="text-align:center"><a href="https://jbhuang0604.github.io/">Jia-Bin Huang</a><br>Associate Professor<br>University of Maryland College Park</td>
     <td style="text-align:center"><a href="https://www.weizmann.ac.il/math/dekel/">Tali Dekel</a><br>Assistant Professor<br>Weizmann Institute of Science</td>
-    <td style="text-align:center"><a href="https://research.adobe.com/person/nathan-carr/">Nathan Carr</a><br>Research Scientist<br>Adobe Fellow</td>
+    <td style="text-align:center"><a href="https://research.adobe.com/person/nathan-carr/">Nathan Carr</a><br>Adobe Fellow<br>Adobe Research</td>
   </tr>
 </table>
 
