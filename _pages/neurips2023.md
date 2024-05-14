@@ -165,7 +165,7 @@ be non-compliant or in violation of the rules will be disqualified. In such inst
 process will continue with the subsequent submissions until the final top 2 are determined
 
 #### Submission Form:
-* TBD
+[Google Form submission link](https://docs.google.com/forms/d/e/1FAIpQLSfrfhYbRtYUEbcizuMBagcHBbFf6cemjdTh8OnF7E7nCrFA0Q/viewform)
 
 #### Google Colab file training and evaluating synthetic dataset
 Please use this [Google Colab file](https://colab.research.google.com/drive/1kizZ0Ix2SNP11qy_VMhr0NLGlI5-oMNT) for training and evaluating your synthetic dataset. 
