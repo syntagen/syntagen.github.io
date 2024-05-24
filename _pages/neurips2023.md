@@ -193,8 +193,8 @@ traces to protect privacy and respect consent standards. -->
 
 * Competition announcement: **Feb 22nd, 2024**
 * Submission start: **Mar 1st, 2024**
-* Submission deadline 1 for random seed, DeepLabv3, and dataset: **May 24th, 2024**
-* Submission deadline 2 for dataset generation code and mIoU score: **May 27th, 2024**
+* Submission deadline 1 for random seed, DeepLabv3, and dataset: **May 24th, 2024. 11:59 pm PDT**, 
+* Submission deadline 2 for dataset generation code and mIoU score: **May 27th, 2024. 11:59 pm PDT**
 * Award announcement: **Jun 7th, 2024**
 * Report and code upload for winners: **Jun 14th, 2024**
 
