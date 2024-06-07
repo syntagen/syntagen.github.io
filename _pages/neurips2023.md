@@ -90,7 +90,19 @@ generative models and synthetic visual datasets to new heights. Through informat
 * TBD
 
 ### **Accepted Papers**
-* TBD
+**[Oral]** [Is Synthetic Data all We Need? Benchmarking the Robustness of Models Trained with Synthetic Images](https://openreview.net/forum?id=wPW3k20lkW). Krishnakant Singh, Thanush Navaratnam, Jannik Holmer, Simone Schaub-Meyer 
+
+**[Oral]** [Intrinsic LoRA: A Generalist Approach for Discovering Knowledge in Generative Models](https://openreview.net/forum?id=yZEmrllIB5). Xiaodan Du, Nicholas Kolkin, Greg Shakhnarovich, Anand Bhattad
+
+[ScribbleGen: Generative Data Augmentation Improves Scribble-supervised Semantic Segmentation](https://openreview.net/forum?id=0lJq8pmlXM). Jacob Schnell, Jieke Wang, Lu Qi, Vincent Tao Hu, Meng Tang
+
+[Diffusion Models for Open-Vocabulary Segmentation](https://openreview.net/forum?id=LG1AFNqnEl). Laurynas Karazija, Iro Laina, Andrea Vedaldi, Christian Rupprecht
+
+[RePoseDM: Recurrent Pose Alignment and Gradient Guidance for Pose Guided Image Synthesis](https://openreview.net/forum?id=13zFhgDYI6). Anant Khandelwal
+
+[CinePile: A Long Video Question Answering Dataset and Benchmark](https://openreview.net/forum?id=Iwg4sjydHn). Ruchit Rawal, Khalid Saifullah, Ronen Basri, David Jacobs, Gowthami Somepalli, Tom Goldstein
+
+[Data Augmentation for Facial Recognition with Diffusion Model](https://openreview.net/forum?id=GXmlanJ6rC). Zhiqi Huang, Hao Geng, Haoyu Wang, Huixin Xiong, Zhiheng Li 
 
 ### **Call for Papers**
 We invite papers to propel the development of generative models and/or the use of their synthetic visual datasets for training and evaluating computer vision models. Accepted papers will be presented in the poster session in our workshop. We welcome submissions along two tracks:
@@ -124,13 +136,21 @@ Supplemental materials optionally can be submitted along the paper manuscript on
 * Camera Ready submission deadline: **April 14th, 11:59 PM Pacific Time**
 * Workshop date: **June 17th, 2024 (Morning)**
 
+
 #### Contact us
 If you have any further questions, please feel free to contact us at **cvpr24syntagen@googlegroups.com**
+
+### **SyntaGen Competition Results**
+
+**1st Place ($1,000)**: Team Teddy Bear from HCMC University of Science, Vietnam - **mIoU: 51.61**
+
+**2nd Place ($500):** Team HNU-VPAI from Hunan University, China - **mIoU: 47.36**
 
 ### **SyntaGen Competition**
 <div class="image-container" style="max-width: 100%; text-align: center;">
   <img src="./assets/img2/dataset-diff-teaser.png" style="width: 100%; height: auto;">
 </div>
+
 
 #### Dataset and metric
 The primary objective of this competition is to drive innovation in the creation of high-quality synthetic datasets, leveraging only the pretrained [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) and the 20 class names from [PASCAL VOC 2012](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/) for semantic segmentation. The evaluation of synthetic dataset quality involves training a [DeepLabv3](https://arxiv.org/abs/1706.05587) model on the synthetic dataset and subsequently assessing its performance on a private test set on the task of semantic segmentation  (a sample validation set is the validation set of [PASCAL VOC 2012](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/)). Submissions are ranked based on the **mIoU** metric. This competition framework mirrors the practical application of synthetic datasets, particularly in scenarios where they replace real datasets.
