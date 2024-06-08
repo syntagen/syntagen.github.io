@@ -99,6 +99,78 @@ generative models and synthetic visual datasets to new heights. Through informat
 | 10:50 | Invited talk 5                                        | 25 mins  | TBD     |
 | 11:15 | Panel discussion                                      | 25 mins  | TBD     |
 | 11:40 | Poster Session                                        | 40 mins  |      | -->
+<table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Event</th>
+      <th>Duration</th>
+      <th>Speaker</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>8:25</td>
+      <td>Introduction (Gift giveaway)</td>
+      <td>5 mins</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>8:30</td>
+      <td>Competition session & Winners talks & Oral presentation</td>
+      <td>30 mins</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>9:00</td>
+      <td>Invited talk 1</td>
+      <td>25 mins</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>9:25</td>
+      <td>Invited talk 2</td>
+      <td>25 mins</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>9:50</td>
+      <td>Break (Gift giveaway)</td>
+      <td>10 mins</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>10:00</td>
+      <td>Invited talk 3</td>
+      <td>25 mins</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>10:25</td>
+      <td>Invited talk 4</td>
+      <td>25 mins</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>10:50</td>
+      <td>Invited talk 5</td>
+      <td>25 mins</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>11:15</td>
+      <td>Panel discussion</td>
+      <td>25 mins</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>11:40</td>
+      <td>Poster Session</td>
+      <td>40 mins</td>
+      <td>TBD</td>
+    </tr>
+  </tbody>
+</table>
 
 
 ### **Accepted Papers**
