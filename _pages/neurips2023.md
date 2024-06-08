@@ -102,76 +102,75 @@ generative models and synthetic visual datasets to new heights. Through informat
 <table>
   <thead>
     <tr>
-      <th>Time</th>
+      <th style="text-align:left;">Time</th>
       <th>Event</th>
-      <th>Duration</th>
-      <th>Speaker</th>
+      <th style="text-align:left;">Duration</th>
+      <th style="text-align:left;">Speaker</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>8:25</td>
+      <td style="text-align:left;">8:25</td>
       <td>Introduction (Gift giveaway)</td>
-      <td>5 mins</td>
-      <td>TBD</td>
+      <td style="text-align:left;">5 mins</td>
+      <td style="text-align:left;">TBD</td>
     </tr>
     <tr>
-      <td>8:30</td>
+      <td style="text-align:left;">8:30</td>
       <td>Competition session & Winners talks & Oral presentation</td>
-      <td>30 mins</td>
-      <td>TBD</td>
+      <td style="text-align:left;">30 mins</td>
+      <td style="text-align:left;">TBD</td>
     </tr>
     <tr>
-      <td>9:00</td>
+      <td style="text-align:left;">9:00</td>
       <td>Invited talk 1</td>
-      <td>25 mins</td>
-      <td>TBD</td>
+      <td style="text-align:left;">25 mins</td>
+      <td style="text-align:left;">TBD</td>
     </tr>
     <tr>
-      <td>9:25</td>
+      <td style="text-align:left;">9:25</td>
       <td>Invited talk 2</td>
-      <td>25 mins</td>
-      <td>TBD</td>
+      <td style="text-align:left;">25 mins</td>
+      <td style="text-align:left;">TBD</td>
     </tr>
     <tr>
-      <td>9:50</td>
+      <td style="text-align:left;">9:50</td>
       <td>Break (Gift giveaway)</td>
-      <td>10 mins</td>
-      <td>TBD</td>
+      <td style="text-align:left;">10 mins</td>
+      <td style="text-align:left;">TBD</td>
     </tr>
     <tr>
-      <td>10:00</td>
+      <td style="text-align:left;">10:00</td>
       <td>Invited talk 3</td>
-      <td>25 mins</td>
-      <td>TBD</td>
+      <td style="text-align:left;">25 mins</td>
+      <td style="text-align:left;">TBD</td>
     </tr>
     <tr>
-      <td>10:25</td>
+      <td style="text-align:left;">10:25</td>
       <td>Invited talk 4</td>
-      <td>25 mins</td>
-      <td>TBD</td>
+      <td style="text-align:left;">25 mins</td>
+      <td style="text-align:left;">TBD</td>
     </tr>
     <tr>
-      <td>10:50</td>
+      <td style="text-align:left;">10:50</td>
       <td>Invited talk 5</td>
-      <td>25 mins</td>
-      <td>TBD</td>
+      <td style="text-align:left;">25 mins</td>
+      <td style="text-align:left;">TBD</td>
     </tr>
     <tr>
-      <td>11:15</td>
+      <td style="text-align:left;">11:15</td>
       <td>Panel discussion</td>
-      <td>25 mins</td>
-      <td>TBD</td>
+      <td style="text-align:left;">25 mins</td>
+      <td style="text-align:left;">TBD</td>
     </tr>
     <tr>
-      <td>11:40</td>
+      <td style="text-align:left;">11:40</td>
       <td>Poster Session</td>
-      <td>40 mins</td>
-      <td>TBD</td>
+      <td style="text-align:left;">40 mins</td>
+      <td style="text-align:left;">TBD</td>
     </tr>
   </tbody>
 </table>
-
 
 ### **Accepted Papers**
 **[Oral]** [Is Synthetic Data all We Need? Benchmarking the Robustness of Models Trained with Synthetic Images](https://openreview.net/forum?id=wPW3k20lkW). Krishnakant Singh, Thanush Navaratnam, Jannik Holmer, Simone Schaub-Meyer 
