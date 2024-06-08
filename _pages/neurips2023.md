@@ -87,7 +87,7 @@ generative models and synthetic visual datasets to new heights. Through informat
 * TBD
 
 ### **Schedule**
-| **Time**  | **Event**                                                | **Duration** | **Speaker** |
+<!-- | **Time**  | **Event**                                                | **Duration** | **Speaker** |
 |-------|------------------------------------------------------|----------|---------|
 | 8:25  | Introduction (Gift giveaway)                         | 5 mins   | TBD     |
 | 8:30  | Competition session & Winners talks & Oral presentation | 30 mins  | TBD     |
@@ -98,7 +98,7 @@ generative models and synthetic visual datasets to new heights. Through informat
 | 10:25 | Invited talk 4                                        | 25 mins  | TBD     |
 | 10:50 | Invited talk 5                                        | 25 mins  | TBD     |
 | 11:15 | Panel discussion                                      | 25 mins  | TBD     |
-| 11:40 | Poster Session                                        | 40 mins  |      |
+| 11:40 | Poster Session                                        | 40 mins  |      | -->
 
 
 ### **Accepted Papers**
