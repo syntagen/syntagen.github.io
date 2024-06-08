@@ -87,7 +87,19 @@ generative models and synthetic visual datasets to new heights. Through informat
 * TBD
 
 ### **Schedule**
-* TBD
+| **Time**  | **Event**                                                | **Duration** | **Speaker** |
+|-------|------------------------------------------------------|----------|---------|
+| 8:25  | Introduction (Gift giveaway)                         | 5 mins   | TBD     |
+| 8:30  | Competition session & Winners talks & Oral presentation | 30 mins  | TBD     |
+| 9:00  | Invited talk 1                                        | 25 mins  | TBD     |
+| 9:25  | Invited talk 2                                        | 25 mins  | TBD     |
+| 9:50  | Break (Gift giveaway)                                | 10 mins  | TBD     |
+| 10:00 | Invited talk 3                                        | 25 mins  | TBD     |
+| 10:25 | Invited talk 4                                        | 25 mins  | TBD     |
+| 10:50 | Invited talk 5                                        | 25 mins  | TBD     |
+| 11:15 | Panel discussion                                      | 25 mins  | TBD     |
+| 11:40 | Poster Session                                        | 40 mins  |      |
+
 
 ### **Accepted Papers**
 **[Oral]** [Is Synthetic Data all We Need? Benchmarking the Robustness of Models Trained with Synthetic Images](https://openreview.net/forum?id=wPW3k20lkW). Krishnakant Singh, Thanush Navaratnam, Jannik Holmer, Simone Schaub-Meyer 
