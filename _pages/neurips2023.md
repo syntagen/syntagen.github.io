@@ -17,28 +17,19 @@ object detection and segmentation, representation learning, and scene understand
 ideas, practical insights, and collaborative explorations. By convening experts and
 enthusiasts from various corners of the field, it strives to propel the development of
 generative models and synthetic visual datasets to new heights. Through informative talks, challenges, poster sessions, paper presentations, and vibrant panel discussions, this workshop endeavors to lay the foundation for innovative breakthroughs that bridge the realms of generative models and computer vision applications.
-
-<div class="content">
-  <i class="fas fa-gift" onclick="showPopup()"></i>
-  <span style="font-size: 1.5em; color: red; font-weight: bold;"> Attend the SyntaGen Workshop and get our exclusive gifts!</span>
-  <i class="fas fa-gift" onclick="showPopup()"></i>
+<div class="content">  
+  <div class="cta">
+      <span class="highlight-text">
+          <i class="fa fa-gift" aria-hidden="true"></i>
+          Attend the SyntaGen Workshop and get our exclusive gifts!
+          <i class="fa fa-gift" aria-hidden="true"></i>
+      </span>
+      <div class="gift-images">
+          <img src="assets/img2/hat_syntagen.jpg" alt="Gift Image 1" class="gift-image">
+          <img src="assets/img2/bag_syntagen.jpg" alt="Gift Image 2" class="gift-image">
+      </div>
+  </div>
 </div>
-<div class="overlay" id="overlay"></div>
-<div class="popup" id="popup">
-    <img src="assets/img2/bag_syntagen.jpg" alt="Image 1">
-    <img src="assets/img2/hat_syntagen.jpg" alt="Image 2">
-</div>
-<script>
-  function showPopup() {
-      document.getElementById('popup').style.display = 'block';
-      document.getElementById('overlay').style.display = 'block';
-  }
-
-  document.getElementById('overlay').onclick = function() {
-      document.getElementById('popup').style.display = 'none';
-      document.getElementById('overlay').style.display = 'none';
-  }
-</script>
 
 <!-- **UPDATE**: fill out this form if you are interested in a post-workshop social: [https://forms.gle/XjeSVmyHnsp7EmLB6](https://forms.gle/XjeSVmyHnsp7EmLB6). -->
 
@@ -134,55 +125,55 @@ generative models and synthetic visual datasets to new heights. Through informat
   <tbody>
     <tr>
       <td style="text-align:left;">8:25</td>
-      <td>Introduction (Gift giveaway)</td>
+      <td>Introduction</td>
       <td style="text-align:left;">5 mins</td>
-      <td style="text-align:left;">TBD</td>
+      <td style="text-align:left;"></td>
     </tr>
     <tr>
       <td style="text-align:left;">8:30</td>
       <td>Competition session & Winners talks & Oral presentation</td>
       <td style="text-align:left;">30 mins</td>
-      <td style="text-align:left;">TBD</td>
+      <td style="text-align:left;"></td>
     </tr>
     <tr>
       <td style="text-align:left;">9:00</td>
       <td>Invited talk 1</td>
       <td style="text-align:left;">25 mins</td>
-      <td style="text-align:left;">TBD</td>
+      <td style="text-align:left;"><b>David Fleet</b></td>
     </tr>
     <tr>
       <td style="text-align:left;">9:25</td>
       <td>Invited talk 2</td>
       <td style="text-align:left;">25 mins</td>
-      <td style="text-align:left;">TBD</td>
+      <td style="text-align:left;"><b>Nathan Carr</b></td>
     </tr>
     <tr>
       <td style="text-align:left;">9:50</td>
-      <td>Break (Gift giveaway)</td>
+      <td>Break</td>
       <td style="text-align:left;">10 mins</td>
-      <td style="text-align:left;">TBD</td>
+      <td style="text-align:left;"></td>
     </tr>
     <tr>
       <td style="text-align:left;">10:00</td>
       <td>Invited talk 3</td>
       <td style="text-align:left;">25 mins</td>
-      <td style="text-align:left;">TBD</td>
+      <td style="text-align:left;"><b>Jin-Bin Huang</b></td>
     </tr>
     <tr>
       <td style="text-align:left;">10:25</td>
       <td>Invited talk 4</td>
       <td style="text-align:left;">25 mins</td>
-      <td style="text-align:left;">TBD</td>
+      <td style="text-align:left;"><b>Phillip Isola</b></td>
     </tr>
     <tr>
       <td style="text-align:left;">10:50</td>
       <td>Invited talk 5</td>
       <td style="text-align:left;">25 mins</td>
-      <td style="text-align:left;">TBD</td>
+      <td style="text-align:left;"><b>Tali Dekel</b></td>
     </tr>
     <tr>
       <td style="text-align:left;">11:15</td>
-      <td>Panel discussion</td>
+      <td>Panel discussion: Tali Dekel, Phillip Isola, Nathan Carr</td>
       <td style="text-align:left;">25 mins</td>
       <td style="text-align:left;">TBD</td>
     </tr>
@@ -190,7 +181,7 @@ generative models and synthetic visual datasets to new heights. Through informat
       <td style="text-align:left;">11:40</td>
       <td>Poster Session</td>
       <td style="text-align:left;">40 mins</td>
-      <td style="text-align:left;">TBD</td>
+      <td style="text-align:left;"></td>
     </tr>
   </tbody>
 </table>
