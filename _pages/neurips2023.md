@@ -17,56 +17,24 @@ object detection and segmentation, representation learning, and scene understand
 ideas, practical insights, and collaborative explorations. By convening experts and
 enthusiasts from various corners of the field, it strives to propel the development of
 generative models and synthetic visual datasets to new heights. Through informative talks, challenges, poster sessions, paper presentations, and vibrant panel discussions, this workshop endeavors to lay the foundation for innovative breakthroughs that bridge the realms of generative models and computer vision applications.
-<div class="content">  
+<div class="content">
+  <p>The field of computer vision has undergone a significant transformation in recent years with the advancement of generative models...</p>
+  
   <div class="cta">
-      <span class="highlight-text">
+      <span class="gift-icon" id="gift-icon">
           <i class="fa fa-gift" aria-hidden="true"></i>
           Attend the SyntaGen Workshop and get our exclusive gifts!
           <i class="fa fa-gift" aria-hidden="true"></i>
       </span>
-      <div class="gift-images">
-          <img src="assets/img2/hat_syntagen.jpg" alt="Gift Image 1" class="gift-image">
-          <img src="assets/img2/bag_syntagen.jpg" alt="Gift Image 2" class="gift-image">
+      <div class="dropdown-content" id="dropdown-content">
+          <div class="gift-images">
+              <img src="assets/img2/totebag2.png" alt="Gift Tote Bag" class="gift-image">
+              <img src="assets/img2/Cap2.png" alt="Gift Cap" class="gift-image">
+          </div>
       </div>
   </div>
+
 </div>
-
-<!-- **UPDATE**: fill out this form if you are interested in a post-workshop social: [https://forms.gle/XjeSVmyHnsp7EmLB6](https://forms.gle/XjeSVmyHnsp7EmLB6). -->
-
-<!-- ### Schedule (Meeting Room 317A, 9 AM - 5 PM, July 29, 2023) -->
-<!-- ### Schedule
-
-⭐ **Link to NeurIPS page: [https://neurips.cc/virtual/2023/workshop/66550](https://neurips.cc/virtual/2023/workshop/66550)** ⭐
-
-
-|----------------------|---------------------------------------------------------|---------------------------------------------------------------------------------------|
-| Start Time (CST/GMT-06:00, New Orleans)  |  Session                                                 | Speaker(s)                                                                            |
-|:---------------------|:--------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------|
-| 08:55 am | Opening Remarks                                                                            | Organizers                                                                            |
-|---------------------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| 09:00 am | **Invited Talk 1:** A Blessing in Disguise: Backdoor Attacks as Watermarks for Dataset Copyright | Yiming Li |
-| 09:30 am | **Invited Talk 2:** Recent Advances in Backdoor Defense and Benchmark | Baoyuan Wu  |
-| 10:00 am | Coffee Break                                                                           |  |
-|---------------------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| 10:30 am | **Invited Talk 3:** The difference between safety and security for watermarking                                                                                | Jonas Geiping |
-| 11:00 am | **Oral 1:** Effective Backdoor Mitigation Depends on the Pre-training Objective | Sahil Verma, Gantavya Bhatt, Soumye Singhal, Arnav Das, Chirag Shah, John Dickerson, Jeff A Bilmes |
-| 11:15 am  | **Invited Talk 4:** Universal jailbreak backdoors from poisoned human feedback | Florian Tramèr |
-| 11:45 am | Lunch Break | |
-|---------------------|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| 01:00 pm | **Oral 2:** VillanDiffusion: A Unified Backdoor Attack Framework for Diffusion Models | Sheng-Yen Chou, Pin-Yu Chen, Tsung-Yi Ho |
-| 01:15 pm | **Oral 3:** The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright Breaches Without Adjusting Finetuning Pipeline | Haonan Wang, Qianli Shen, Yao Tong, Yang Zhang, Kenji Kawaguchi |
-| 01:30 pm | **Invited talk 5:** Is this model mine? On stealing and defending machine learning models | Adam Dziedzic |
-| 02:00 pm | **Invited talk 6**                                                                           | Ruoxi Jia |
-| 02:30 pm | Coffee Break                                                                     |  |
-|---------------------|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| 03:00 pm | **Poster Session**                                                                                | Paper Authors |
-| 03:45 pm | **Oral 4:** Backdooring Instruction-Tuned Large Language Models with Virtual Prompt Injection | Jun Yan, Vikas Yadav, Shiyang Li, Lichang Chen, Zheng Tang, Hai Wang, Vijay Srinivasan, Xiang Ren, Hongxia Jin |
-| 04:00 pm | **Oral 5:** BadChain: Backdoor Chain-of-Thought Prompting for Large Language Models | Zhen Xiang, Fengqing Jiang, Zidi Xiong, Bhaskar Ramasubramanian, Radha Poovendran, Bo Li |
-| 04:15 pm | **Invited Talk 7:** Decoding Backdoors in LLMs and Their Implications | Bo Li |
-|---------------------|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| 04:45 pm | **Panel Discussion**                                                                     | Moderator: Eugene Bagdasaryan |
-| 05:15 pm   | Closing Remarks                                                                        | Organizers    |  -->
-
 
 ### **Speakers**
 
