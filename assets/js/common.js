@@ -6,3 +6,7 @@ $(document).ready(function() {
         $(this).parent().parent().find(".bibtex.hidden").toggleClass('open');
     });
 });
+document.getElementById('gift-icon').addEventListener('click', function() {
+    var dropdownContent = document.getElementById('dropdown-content');
+    dropdownContent.style.display = dropdownContent.style.display === 'block' ? 'none' : 'block';
+});
