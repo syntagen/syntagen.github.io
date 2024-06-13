@@ -17,8 +17,9 @@ object detection and segmentation, representation learning, and scene understand
 ideas, practical insights, and collaborative explorations. By convening experts and
 enthusiasts from various corners of the field, it strives to propel the development of
 generative models and synthetic visual datasets to new heights. Through informative talks, challenges, poster sessions, paper presentations, and vibrant panel discussions, this workshop endeavors to lay the foundation for innovative breakthroughs that bridge the realms of generative models and computer vision applications.
+
 <div class="content">
-  <p>The field of computer vision has undergone a significant transformation in recent years with the advancement of generative models...</p>
+  <!-- <p>The field of computer vision has undergone a significant transformation in recent years with the advancement of generative models...</p> -->
   
   <div class="cta">
       <span class="gift-icon" id="gift-icon">
