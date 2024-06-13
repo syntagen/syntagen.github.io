@@ -105,13 +105,13 @@ generative models and synthetic visual datasets to new heights. Through informat
     </tr>
     <tr>
       <td style="text-align:left;">9:00</td>
-      <td>Invited talk 1</td>
+      <td>Invited talk 1: Promising Generative Data Augmentation</td>
       <td style="text-align:left;">25 mins</td>
       <td style="text-align:left;"><b>David Fleet</b></td>
     </tr>
     <tr>
       <td style="text-align:left;">9:25</td>
-      <td>Invited talk 2</td>
+      <td>Invited talk 2: Re-inventing the Factory - the new AI Software Lifecycle</td>
       <td style="text-align:left;">25 mins</td>
       <td style="text-align:left;"><b>Nathan Carr</b></td>
     </tr>
@@ -123,19 +123,19 @@ generative models and synthetic visual datasets to new heights. Through informat
     </tr>
     <tr>
       <td style="text-align:left;">10:00</td>
-      <td>Invited talk 3</td>
+      <td>Invited talk 3: Poor Man’s Guide for Aligned Text-to-Image Synthesis</td>
       <td style="text-align:left;">25 mins</td>
       <td style="text-align:left;"><b>Jin-Bin Huang</b></td>
     </tr>
     <tr>
       <td style="text-align:left;">10:25</td>
-      <td>Invited talk 4</td>
+      <td>Invited talk 4: Using Language Models to Make Training Data for Vision</td>
       <td style="text-align:left;">25 mins</td>
       <td style="text-align:left;"><b>Phillip Isola</b></td>
     </tr>
     <tr>
       <td style="text-align:left;">10:50</td>
-      <td>Invited talk 5</td>
+      <td>Invited talk 5: The Future of Video Generation: Beyond Data and Scale</td>
       <td style="text-align:left;">25 mins</td>
       <td style="text-align:left;"><b>Tali Dekel</b></td>
     </tr>
@@ -148,7 +148,7 @@ generative models and synthetic visual datasets to new heights. Through informat
     <tr>
       <td style="text-align:left;">11:40</td>
       <td>Poster Session</td>
-      <td style="text-align:left;">40 mins</td>
+      <td style="text-align:left;">50 mins</td>
       <td style="text-align:left;"></td>
     </tr>
   </tbody>
@@ -338,7 +338,7 @@ Let’s join SyntaGen’s community in <a href="https://discord.gg/eFeBYdD5" tar
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://truongvu2000nd.github.io/">Truong Vu</a><br>Research Resident<br>VinAI Research, Vietnam</td>
-    <td style="text-align:center"><a href="https://quang-ngh.github.io/">Quang Nguyen</a><br>Research Intern<br>VinAI Research, Vietnam</td>
+    <td style="text-align:center"><a href="https://quang-ngh.github.io/">Quang Nguyen</a><br>Research Resident<br>VinAI Research, Vietnam</td>
   </tr>
 </table>
 
