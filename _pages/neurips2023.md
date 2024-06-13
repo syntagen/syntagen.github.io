@@ -4,7 +4,7 @@ order: 1
 permalink: /
 title: About
 desc_title: SyntaGen - Harnessing Generative Models for Synthetic Visual Datasets
-description:  <strong>CVPR 2024 Workshop <br> June 17th, Morning <br> Seattle, United States</strong>
+description:  <strong>CVPR 2024 Workshop <br> June 17th, Morning <br> Seattle, United States<br>Room Summit 423-425</strong>
 social: true
 ---
 The field of computer vision has undergone a significant transformation in recent
