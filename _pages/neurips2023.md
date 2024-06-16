@@ -126,7 +126,7 @@ generative models and synthetic visual datasets to new heights. Through informat
       <td style="text-align:left;">10:00</td>
       <td>Invited talk 3: Poor Man’s Guide for Aligned Text-to-Image Synthesis</td>
       <td style="text-align:left;">25 mins</td>
-      <td style="text-align:left;"><b>Jin-Bin Huang</b></td>
+      <td style="text-align:left;"><b>Jia-Bin Huang</b></td>
     </tr>
     <tr>
       <td style="text-align:left;">10:25</td>
