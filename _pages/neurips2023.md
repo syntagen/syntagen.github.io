@@ -66,8 +66,8 @@ generative models and synthetic visual datasets to new heights. Through informat
   </tr>
 </table>
 
-### **Panelists**
-* TBD
+<!-- ### **Panelists**
+* TBD -->
 
 ### **Schedule**
 <!-- | **Time**  | **Event**                                                | **Duration** | **Speaker** |
