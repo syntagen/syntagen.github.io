@@ -130,7 +130,7 @@ generative models and synthetic visual datasets to new heights. Through informat
     </tr>
     <tr>
       <td style="text-align:left;">10:25</td>
-      <td>Invited talk 4: Using Language Models to Make Training Data for Vision</td>
+      <td>Invited talk 4: N=0: Learning Vision with Zero Visual Data</td>
       <td style="text-align:left;">25 mins</td>
       <td style="text-align:left;"><b>Phillip Isola</b></td>
     </tr>
@@ -207,10 +207,7 @@ Supplemental materials optionally can be submitted along the paper manuscript on
 If you have any further questions, please feel free to contact us at **cvpr24syntagen@googlegroups.com**
 
 ### **SyntaGen Competition Results**
-
-**1st Place ($1,000)**: Team Teddy Bear from HCMC University of Science, Vietnam - **mIoU: 51.61**
-
-**2nd Place ($500):** Team HNU-VPAI from Hunan University, China - **mIoU: 47.36**
+**1st Place ($1,000)** Team HNU-VPAI from Hunan University, China - **mIoU: 47.36**
 
 ### **SyntaGen Competition**
 <div class="image-container" style="max-width: 100%; text-align: center;">
