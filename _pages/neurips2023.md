@@ -155,7 +155,7 @@ generative models and synthetic visual datasets to new heights. Through informat
 </table>
 
 ### **Accepted Papers**
-**[Oral]** [Is Synthetic Data all We Need? Benchmarking the Robustness of Models Trained with Synthetic Images](https://openreview.net/forum?id=wPW3k20lkW). Krishnakant Singh, Thanush Navaratnam, Jannik Holmer, Simone Schaub-Meyer 
+**[Oral]** [Is Synthetic Data all We Need? Benchmarking the Robustness of Models Trained with Synthetic Images](https://openreview.net/forum?id=wPW3k20lkW). Krishnakant Singh, Thanush Navaratnam, Jannik Holmer, Simone Schaub-Meyer, Stefan Roth
 
 **[Oral]** [Intrinsic LoRA: A Generalist Approach for Discovering Knowledge in Generative Models](https://openreview.net/forum?id=yZEmrllIB5). Xiaodan Du, Nicholas Kolkin, Greg Shakhnarovich, Anand Bhattad
 
