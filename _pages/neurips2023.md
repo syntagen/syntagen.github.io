@@ -208,6 +208,12 @@ If you have any further questions, please feel free to contact us at **cvpr24syn
 ### **SyntaGen Competition Results**
 **1st Place ($1,000)** Team HNU-VPAI from Hunan University, China - **mIoU: 47.36**
 
+Additionally, technical reports of top 3 are available at:
+* [Teddy Bear Team](https://drive.google.com/file/d/1pQrGnuMIos6yWZZPSmDO4yaYi_8VitjV/view?usp=sharing) - **mIoU: 51.03** 
+* [HNU-VPAI](https://drive.google.com/file/d/1Vfr1wqmu_-4_qZ6paeZHS7mdKKv4ngfD/view?usp=sharing) - **mIoU: 47.36**  
+* [Hot Coffee](https://drive.google.com/file/d/1TvbmLF4dnr5LjNYINECVPJ7-DASWwsnE/view?usp=sharing) - **mIoU: 46.25**  
+
+
 ### **SyntaGen Competition**
 <div class="image-container" style="max-width: 100%; text-align: center;">
   <img src="./assets/img2/dataset-diff-teaser.png" style="width: 100%; height: auto;">
@@ -285,7 +291,7 @@ Let’s join SyntaGen’s community in <a href="https://discord.gg/eFeBYdD5" tar
 
 ### **Workshop Sponsors**
 <table style="width:100%; align: left; border: none; spacing: none">
-  <tr style="border: none; spacing: none"> 
+  <tr style="border: none; spacing: none">
     <td style="text-align:center; border: none; spacing: none"><a href="https://www.vinai.io/"><img src="assets/img/inst-vinai.png" height="60"></a></td>  
     <td style="text-align:center; border: none; spacing: none"><a href="https://research.adobe.com/"><img src="assets/img2/aff-adobe.jpg" height="70"></a></td>
   </tr>
